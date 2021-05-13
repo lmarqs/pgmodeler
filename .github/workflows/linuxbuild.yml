@@ -32,3 +32,9 @@ jobs:
      
     - name: Deploying pgModeler
       run: make install
+
+    - name: Upload Artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: build
+        path: /home/runner/work/pgmodeler/pgmodeler/
