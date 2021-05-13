@@ -1,9 +1,9 @@
 Building status
 ---------------
 
-[![Linux build](https://github.com/pgmodeler/pgmodeler/workflows/Linux%20build/badge.svg)](https://github.com/pgmodeler/pgmodeler/actions?query=workflow%3A%22Linux+build%22)
-[![Windows build](https://github.com/pgmodeler/pgmodeler/workflows/Windows%20build/badge.svg)](https://github.com/pgmodeler/pgmodeler/actions?query=workflow%3A%22Windows+build%22)
-[![macOs build](https://github.com/pgmodeler/pgmodeler/workflows/macOs%20build/badge.svg)](https://github.com/pgmodeler/pgmodeler/actions?query=workflow%3A%22macOs+build%22)
+[![Linux build](https://github.com/lmarqs/pgmodeler/workflows/Linux%20build/badge.svg)](https://github.com/lmarqs/pgmodeler/actions?query=workflow%3A%22Linux+build%22)
+[![Windows build](https://github.com/lmarqs/pgmodeler/workflows/Windows%20build/badge.svg)](https://github.com/lmarqs/pgmodeler/actions?query=workflow%3A%22Windows+build%22)
+[![macOs build](https://github.com/lmarqs/pgmodeler/workflows/macOs%20build/badge.svg)](https://github.com/lmarqs/pgmodeler/actions?query=workflow%3A%22macOs+build%22)
 
 
 Introduction
@@ -11,7 +11,7 @@ Introduction
 
 pgModeler - PostgreSQL Database Modeler - is an open-source data-modeling tool designed for PostgreSQL. No more DDL commands written by hand, let pgModeler do the job for you! This software reunites the concepts of entity-relationship diagrams and the features that PostgreSQL implements as extensions of SQL standards.
 
-Please, let me know how pgModeler is working on your system! Help improving this project, give your feedback about the software or report any bug at [Issues](https://github.com/pgmodeler/pgmodeler/issues) page. Additionally, follow pgModeler on [Facebook](https://www.facebook.com/pgmodeler) or [Twitter](https://twitter.com/pgmodeler) and be up-to-date with new features, fixes and releases.
+Please, let me know how pgModeler is working on your system! Help improving this project, give your feedback about the software or report any bug at [Issues](https://github.com/lmarqs/pgmodeler/issues) page. Additionally, follow pgModeler on [Facebook](https://www.facebook.com/pgmodeler) or [Twitter](https://twitter.com/pgmodeler) and be up-to-date with new features, fixes and releases.
 
 Licensing
 ---------
@@ -20,7 +20,7 @@ This program is free software: you can redistribute it and/or modify it under th
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-See [LICENSE](https://github.com/pgmodeler/pgmodeler/blob/master/LICENSE) for details.
+See [LICENSE](https://github.com/lmarqs/pgmodeler/blob/master/LICENSE) for details.
 
 Donate to pgModeler
 -------------------
@@ -56,7 +56,7 @@ Known Issues
 Changelog
 ----------
 
-The detailed changelog can be seen on [CHANGELOG.md](https://github.com/pgmodeler/pgmodeler/blob/master/CHANGELOG.md) file.
+The detailed changelog can be seen on [CHANGELOG.md](https://github.com/lmarqs/pgmodeler/blob/master/CHANGELOG.md) file.
 
 Older Releases/Code
 -------------------
