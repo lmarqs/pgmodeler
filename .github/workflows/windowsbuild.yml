@@ -47,8 +47,11 @@ jobs:
     - name: Deploying pgModeler
       run: mingw32-make install
 
+    - name: Tar files
+      run: tar -cvf pgmodeler-windows.tar D:/a/pgmodeler/pgmodeler/build
+
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: build
-        path: D:/a/pgmodeler/pgmodeler/build
+        name: pgmodeler-windows
+        path: pgmodeler-windows.tar

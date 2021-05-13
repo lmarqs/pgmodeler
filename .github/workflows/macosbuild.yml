@@ -33,8 +33,11 @@ jobs:
     - name: Deploying pgModeler
       run: make install
 
+    - name: Tar files
+      run: tar -cvf pgmodeler-mac.tar /Applications/pgModeler.app
+
     - name: Upload Artifact
       uses: actions/upload-artifact@v2
       with:
-        name: build
-        path: /Applications/pgModeler.app
+        name: pgmodeler-mac
+        path: pgmodeler-mac.tar
